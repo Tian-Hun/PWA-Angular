@@ -1,0 +1,9 @@
+<div>
+  <div class="title">熊猫🐼换衣服，PWA Angular</div>
+  <img class="img-view" *ngIf="!isNone" [src]="src" alt="">
+  <div class="none-view" *ngIf="isNone">
+    <img src="./assets/images/none.jpg" alt="">
+    <div>没有下一件衣服了，换不了了</div>
+  </div>
+  <button class="link" (click)="next()">{{isNone ? '从头开始' : '换一换'}}</button>
+</div>
