@@ -9,8 +9,8 @@
       "urls": [
         "https://tian-hun.github.io/PWA-Angular/favicon.ico",
         "https://tian-hun.github.io/PWA-Angular/index.html",
-        "https://tian-hun.github.io/PWA-Angular/inline.bece2af5369cfffec835.bundle.js",
-        "https://tian-hun.github.io/PWA-Angular/main.d873e2fca2e112d82844.bundle.js",
+        "https://tian-hun.github.io/PWA-Angular/inline.d294d1a2c4dc7e9fd4c4.bundle.js",
+        "https://tian-hun.github.io/PWA-Angular/main.8078174a279bdcdf690e.bundle.js",
         "https://tian-hun.github.io/PWA-Angular/polyfills.fde0a6e198d0def7c17e.bundle.js",
         "https://tian-hun.github.io/PWA-Angular/styles.9c0ad738f18adc3d19ed.bundle.css"
       ],
@@ -48,9 +48,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://tian-hun.github.io/PWA-Angular/inline.bece2af5369cfffec835.bundle.js": "da0e9d35e9c3ae190e4ab2d823e6fb50d0ca9891",
+    "https://tian-hun.github.io/PWA-Angular/inline.d294d1a2c4dc7e9fd4c4.bundle.js": "c4797cdfa9db25e64e5c91914f850e8bedb439f3",
     "https://tian-hun.github.io/PWA-Angular/assets/icon/icon-128x128.png": "f9f4816ffc774c3d9b5ed218fdb9e26a5d65accf",
-    "https://tian-hun.github.io/PWA-Angular/main.d873e2fca2e112d82844.bundle.js": "ae2b054e88d3edd83b1c517d77c564f25e8f6895",
+    "https://tian-hun.github.io/PWA-Angular/main.8078174a279bdcdf690e.bundle.js": "49add0250aa696d81cbc35f616fbd127d22b867b",
     "https://tian-hun.github.io/PWA-Angular/assets/icon/icon-152x152.png": "f9f4816ffc774c3d9b5ed218fdb9e26a5d65accf",
     "https://tian-hun.github.io/PWA-Angular/polyfills.fde0a6e198d0def7c17e.bundle.js": "b8032ae9f92359d9df38f58ebe0636b08e19a872",
     "https://tian-hun.github.io/PWA-Angular/assets/icon/icon-256x256.png": "f9f4816ffc774c3d9b5ed218fdb9e26a5d65accf",
@@ -58,7 +58,7 @@
     "https://tian-hun.github.io/PWA-Angular/assets/icon/icon-512x512.png": "f9f4816ffc774c3d9b5ed218fdb9e26a5d65accf",
     "https://tian-hun.github.io/PWA-Angular/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "https://tian-hun.github.io/PWA-Angular/assets/images/1.jpg": "2b0588a2170bb5da216098104b37c5e7c7bd7cad",
-    "https://tian-hun.github.io/PWA-Angular/index.html": "82c07418bd286e778a8fb237484be31a23234d49",
+    "https://tian-hun.github.io/PWA-Angular/index.html": "245bdedd033ecdaeaea2627801313a7eab04801b",
     "https://tian-hun.github.io/PWA-Angular/assets/images/10.jpg": "c1e6826a16ae78a075543722254ac1bb8c5d37f1",
     "https://tian-hun.github.io/PWA-Angular/assets/images/11.jpg": "4a826f2151058229a18bcc12cec5a6639a7aab36",
     "https://tian-hun.github.io/PWA-Angular/assets/images/12.jpg": "d3c369ba565a5b6f150e19ac33a9088e945f7897",
