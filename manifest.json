@@ -1,7 +1,7 @@
 {
-    "name": "PWA Angular",
-    "short_name": "PWA Angular",
-    "description": "PWA Angular",
+    "name": "熊猫换衣服",
+    "short_name": "Angular PWA APP",
+    "description": "A PWA APP created with Angular5",
     "icons": [{
       "src": "assets/icon/icon-128x128.png",
       "sizes": "128x128",
