@@ -19,7 +19,7 @@ export class HomeComponent implements OnInit {
     } else {
       this.idx += 1;
     }
-    this.idx > 16 ? this.isNone = true : this.src = `../../assets/images/${this.idx}.jpg`;
+    this.idx > 16 ? this.isNone = true : this.src = `./assets/images/${this.idx}.jpg`;
   }
 
   ngOnInit() {
